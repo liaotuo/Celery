@@ -6,3 +6,4 @@ Celery学习的一些实例代码
 
 > myCeleryTasks = celery配置任务分离的方式使用
 
+> django_celery = django 结合 celery 的实例
